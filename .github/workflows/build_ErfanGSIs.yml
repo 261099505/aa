@@ -5,10 +5,10 @@ on:
     types: [started]
     
 env:
-  ROM_URL: https://211-95-34-1.ksyungslb.com/bigota.d.miui.com/21.1.19/miui_LAVENDER_21.1.19_cadcddc0d1_10.0.zip?ksy_gslb_referer=https%3A%2F%2Fgithub.com%2FmooseIre%2Fupdate_miui_ota%2Fblob%2Fmaster%2FDevelop%2FRedmi%2520Note7.md
-  ROM_NAME: MIUI
+  ROM_URL: https://61-133-64-5.ksyungslb.com/bigota.d.miui.com/21.1.4/miui_LAVENDER_21.1.4_97babf5f4f_10.0.zip?ksy_gslb_referer=https%3A%2F%2Fgithub.com%2FmooseIre%2Fupdate_miui_ota%2Fblob%2Fmaster%2FDevelop%2FRedmi%2520Note7.md
+  ROM_NAME: MIUI12.5
   BUILD_AB: true
-  ROM_AB: Redmi Note7_AB.7z
+  ROM_AB: Redmi Note7 12.5_AB.7z
   TZ: Asia/Shanghai
   
 jobs:
